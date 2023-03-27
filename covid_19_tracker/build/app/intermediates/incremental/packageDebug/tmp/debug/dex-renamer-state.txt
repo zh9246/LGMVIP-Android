@@ -1,0 +1,4 @@
+#Sat Aug 20 15:28:51 PKT 2022
+base.0=D\:\\LGMVIP-Android\\covid_19_tracker\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
